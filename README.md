@@ -10,6 +10,7 @@
 ---
 
 **Ansvarsområder (delt inn per algoritme):**
+
 Magnus: InsertionSort, MergeSort, FisherYatesShuffle, ReadAlcoholValues, SortBenchmark
 
 Kenneth: BubbleSort (Basic og Optimalisert) LomutoQuickSort, PrintResults, SortBenchmark, SortAlgorithm
